@@ -1,6 +1,6 @@
 package com.lambdaschool.initial;
 
-public class Athlete
+public class AthleteImpl implements AthleteService
 {
 
     public void display(String sport)
